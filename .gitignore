@@ -1,0 +1,6 @@
+lib/*.o
+*/*.o
+*/*.a
+*/*.out
+advio/rot13c2.c
+advio/xlate
